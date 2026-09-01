@@ -5,7 +5,7 @@ It is intended to be included as a **Git submodule** in the main project.
 
 ## Main Project
 
-- **GitHub Repository:** [Cod Jumping Stats](https://github.com/Moamal-2000/cod-jumping-stats)
+- **GitHub Repository:** [Cod Jumping Stats](https://github.com/Moamal-2000/cod-jumping-stats) (Private Repository)
 - **Live Site:** [https://cjstats.vercel.app](https://cjstats.vercel.app)
 
 ## Usage
