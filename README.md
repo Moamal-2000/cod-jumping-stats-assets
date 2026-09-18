@@ -34,3 +34,7 @@ Just Place any `.webp` image in the directory `image-processing` and double-clic
 >
 > - **`-gamma 1.15`**: Lowers shadow lift to prevent blown-out highlights.
 > - **`-modulate 95,100,100`**: Slightly tones down overall brightness (95%) and keeps saturation natural (100%).
+
+## License
+
+This repository, including the PowerShell conversion scripts and associated assets, is licensed under the [MIT License](LICENSE).

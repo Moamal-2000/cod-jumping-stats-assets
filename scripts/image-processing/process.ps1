@@ -1,3 +1,13 @@
+<#
+.SYNOPSIS
+    Image conversion script for COD Jumping Stats.
+.DESCRIPTION
+    Converts and optimizes images using PowerShell.
+.NOTES
+    Copyright (c) 2026 Moamal Alaa Kareem
+    Licensed under the MIT License.
+#>
+
 # 1. Create all folder structures
 $dir1 = "fixed_darkness"
 $dir1920 = "1920"
